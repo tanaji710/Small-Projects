@@ -1,0 +1,4 @@
+C:\Users\onlyluck\Downloads\Compressed\calculator_asp-master\calculator_asp-master\INB270\calculator_web\bin\calculator_web.dll
+C:\Users\onlyluck\Downloads\Compressed\calculator_asp-master\calculator_asp-master\INB270\calculator_web\bin\calculator_web.pdb
+C:\Users\onlyluck\Downloads\Compressed\calculator_asp-master\calculator_asp-master\INB270\calculator_web\obj\Debug\calculator_web.dll
+C:\Users\onlyluck\Downloads\Compressed\calculator_asp-master\calculator_asp-master\INB270\calculator_web\obj\Debug\calculator_web.pdb
